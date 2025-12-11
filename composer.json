@@ -1,6 +1,6 @@
 {
-  "name": "drupal/views_entity_embed",
-  "description": "Allows views to be embedded using a text editor.",
+  "name": "manoj/views_entity_embed",
+  "description": "Custom (Allows views to be embedded using a text editor.)",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/views_entity_embed",
   "support": {
@@ -13,8 +13,8 @@
   },
   "authors": [
     {
-      "name": "Milka Petkova",
-      "email": "milka.petkova.88@gmail.com",
+      "name": "Manoj kumar",
+      "email": "manoj@ewayfarer.com",
       "role": "Creator and Maintainer"
     }
   ]
